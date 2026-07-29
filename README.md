@@ -49,5 +49,3 @@ Passionate about building robust web applications and APIs with modern technolog
 
 <!-- You can add more sections, e.g., blog posts, achievements, certifications, hobbies, etc. -->
 
-> _"Code is like humor. When you have to explain it, it’s bad."_  
-> — Cory House
